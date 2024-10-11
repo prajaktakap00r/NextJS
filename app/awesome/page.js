@@ -1,3 +1,3 @@
 export default function Page() {
-  return <h1>HLOOOooooooo</h1>;
+  return <h1>This is new route</h1>;
 }
