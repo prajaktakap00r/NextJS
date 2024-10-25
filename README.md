@@ -12,3 +12,5 @@
 - allows to build feature rich apps
 - App router is new and partially buggy
 - Future of nextJS
+
+##### Lazy Loading- The img will load if it is really visible
