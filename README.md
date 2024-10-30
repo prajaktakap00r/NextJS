@@ -1,6 +1,6 @@
 # NextJS
 
-## Key Features and Benefits of NextJS
+### Key Features and Benefits of NextJS
 
 - Full-stack applications
 - File-based routing
@@ -15,12 +15,12 @@
 
 ##### Lazy Loading- The img will load if it is really visible
 
-## React Server Components
+### React Server Components
 - only renders on server
 - by default all react components are RSC
 - Less client side JS, better SEO
 
-## React Client Components
+### React Client Components
 - components that are pre rendered on the serverbut then potentially also on client
 - opt in via "use client" directive
 - client side interactivity ( like use react hooks it's not possible in server side)
