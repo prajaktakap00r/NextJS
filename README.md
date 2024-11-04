@@ -24,3 +24,8 @@
 - components that are pre rendered on the serverbut then potentially also on client
 - opt in via "use client" directive
 - client side interactivity ( like use react hooks it's not possible in server side)
+
+- fill is used in image component to tell to take in height and width automatically
+
+## SQL LITE Database
+` npm install better-sqlite3 `
