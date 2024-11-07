@@ -73,7 +73,7 @@ volumes:
   ```jsx
   DATABASE_URL="postgresql://your_username:your_password@localhost:5432/your_database"
   ```
-- generate prisma client
+- generate prisma client ( whenever you do changes in prisma.js you need to generate the client)
 ```jsx
 npx prisma generate
 ```
